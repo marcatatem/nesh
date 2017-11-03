@@ -53,7 +53,7 @@
     "coffee-script": ">=1.6.2 <2"
   },
   "devDependencies": {
-    "coffee-script": ">=1.7 <2",
+    "coffeescript": "^2.0.2",
     "mocha": "^2.2.5"
   },
   "engines": {
